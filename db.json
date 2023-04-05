@@ -1,0 +1,213 @@
+{
+  "categories": [
+    {
+      "title": "Main",
+      "color": "#fa3216",
+      "order": 0,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "Sport",
+      "color": "none",
+      "order": 0,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Work",
+      "color": "#fc7f6d",
+      "order": 0,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Food",
+      "color": "#60b776",
+      "order": 0,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "title": "Learn English",
+      "color": "#ee7ee4",
+      "order": 0,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "title": "Learn Polish",
+      "color": "#f4aeee",
+      "order": 0,
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "title": "My Blog",
+      "color": "#f7e167",
+      "order": 0,
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "title": "Find a part-time job",
+      "color": "#f7e167",
+      "order": 0,
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "title": "Сonquer the iron throne",
+      "color": "#fc7f6d",
+      "order": 0,
+      "userId": 2,
+      "id": 10
+    }
+  ],
+  "tasks": [
+    {
+      "title": "fix some bags",
+      "categoryId": 1,
+      "isCompleted": true,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "add new section on site",
+      "categoryId": 1,
+      "isCompleted": false,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "meet john at the gym",
+      "categoryId": 2,
+      "isCompleted": true,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Find who killed my dog",
+      "categoryId": 3,
+      "isCompleted": true,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "title": "Avenge the dog and kill anyone who gets in my way",
+      "categoryId": 3,
+      "isCompleted": false,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "title": "go to the GYM",
+      "categoryId": 2,
+      "isCompleted": true,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "title": "Write new post about nature",
+      "categoryId": 8,
+      "isCompleted": true,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "title": "read how to promote myself",
+      "categoryId": 8,
+      "isCompleted": true,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "title": "Find new clients",
+      "categoryId": 8,
+      "isCompleted": false,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "title": "write 2 articles",
+      "categoryId": 7,
+      "isCompleted": false,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "title": "find teacher",
+      "categoryId": 7,
+      "isCompleted": true,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "title": "read 1 chapter from a book",
+      "categoryId": 7,
+      "isCompleted": false,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "title": "buy polish book",
+      "categoryId": 7,
+      "isCompleted": true,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "title": "learn 5 new words",
+      "categoryId": 7,
+      "isCompleted": false,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "title": "buy a new gym membership",
+      "categoryId": 2,
+      "isCompleted": false,
+      "timeMs": 0,
+      "userId": 1,
+      "id": 15
+    },
+    {
+      "title": "Ask Tyrion about job",
+      "categoryId": 9,
+      "isCompleted": false,
+      "timeMs": 0,
+      "userId": 2,
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$WZ5RUQX3C0O/Oo6XW7o7HuPbst2BruZGDYT1ETCsMg5/t.FvWqllS",
+      "firstName": "John",
+      "lastName": "Wick",
+      "id": 1
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$WZ5RUQX3C0O/Oo6XW7o7HuPbst2BruZGDYT1ETCsMg5/t.FvWqllS",
+      "firstName": "Daenerys",
+      "lastName": "Targaryen",
+      "id": 2
+    }
+  ]
+}
